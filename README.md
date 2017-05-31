@@ -18,7 +18,7 @@ This website layout follows a popular design pattern: simple rectangles arranged
 
 OR...
 
-* View on gh-pages at [https://avocadobravado.github.io/REPO](https://avocadobravado.github.io/basic-gallery)
+* View on gh-pages at [https://avocadobravado.github.io/basic-gallery](https://avocadobravado.github.io/basic-gallery)
 
 ## Screenshot of Project
 
